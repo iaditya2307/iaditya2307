@@ -1,8 +1,7 @@
 
 # 💫 About Me:
 Learning Web Development & DSA
-Participated in HacktoberFest
-[![An image of @iaditya2307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iaditya2307)](https://holopin.io/@iaditya2307)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityachauhan0723) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachauhan0723) 
 
@@ -23,3 +22,5 @@ Participated in HacktoberFest
 [![](https://visitcount.itsvg.in/api?id=iaditya2307&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Participated in HacktoberFest 2023
+[![An image of @iaditya2307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iaditya2307)](https://holopin.io/@iaditya2307)
